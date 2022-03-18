@@ -27,17 +27,17 @@ header .sushilogo {
     width: 150px;
     height: 60px;
     margin-top: 0.3%;
-    margin-right: 50%;
 }
 
 header .container-homepage {
     display: flex;
-    padding-left: 20px;
+    padding-right: 1%;
+    margin-left: 30%;
   }
   
   header .button {
     display: flex;
-    padding-right: 20px;
+    margin-right: 25%;
   }
   
   header .button div {
@@ -65,27 +65,46 @@ header .container-homepage {
     color: white;
   }
 
+  header .container-menu {
+    padding-right: 5%;
+  }
+
+  header .container-order {
+    padding-right: 5%;
+  }
+
+  header .container-contact {
+    padding-right: 5%;
+  }
+
+header .shoppingcart1 {
+  width: 25%;
+  height: 25%;
+  margin-left: 50%;
+}
+
 main {
     width: 100%;
     height: 100%;
+}
+
+main .box {
+    width: 100%;
+    height: 69vh;
     background-image: url("../afbeeldingen/sushibackground.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
-main .box {
-    width: 100%;
-    height: 100vh;
-}
-
 main .box1 {
     width: 100%;
-    height: 100vh;
+    height: 400vh;
     background-image: url("../afbeeldingen/woodbackground.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    border-top: 1px solid black;
 }
 
 main .box2 {
@@ -100,6 +119,10 @@ main .box2 {
 main .box3 {
     width: 100%;
     height: 100vh;
+    background-image: url("../afbeeldingen/woodbackground.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 main .headline {
@@ -115,7 +138,6 @@ h1 {
 }
 
 footer {
-    position: fixed;
     bottom: 0;
     width: 100%;
     height: 7vh;
