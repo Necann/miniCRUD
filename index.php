@@ -17,6 +17,20 @@
       include_once 'header.php';
     ?>
 
+    <?php
+      require_once("connect.php");
+      /**
+       * @var PDO $connect
+       */
+    ?>
+
+    <?php
+      $sql = "SELECT * FROM album";
+      $stmt = $connect->prepare($sql);
+      $stmt->execute();
+      $result = $stmt->fetchAll();
+    ?>
+
     <main>
         <div class="box">
             <div class="headline">
@@ -63,5 +77,15 @@
 
     <footer>
     </footer>
+
+    <?php
+      foreach($result as $value)
+      {
+        //Je uit te voeren code
+        //Je verschillende onderdelen benader je dan met
+        echo $value["artiest"];
+      }
+    ?>
+
 </body>
 </html>
