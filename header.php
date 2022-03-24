@@ -3,7 +3,7 @@
     <div class="container-homepage" id="homepage">
         <nav>
             <ul>
-                <li><a href="#homepage"><div class="button1">HOME</div></a></li>
+                <li><a href="#top"><div class="button1">HOME</div></a></li>
             </ul>
         </nav>
     </div>
@@ -31,6 +31,6 @@
         </div>
     </div>
     <div class="shoppingcart">
-        <img class="shoppingcart1" src="/afbeeldingen/shoppingcart.png">
+        <img class="shoppingcart1" src="afbeeldingen/shoppingcart.png">
     </div>
 </header>

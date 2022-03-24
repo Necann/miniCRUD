@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display&display=swap" rel="stylesheet">
     <title>'T Plekje | Bestel Nu!</title>
 </head>
-<body>
+<body id="top">
 
     <?php 
       include_once 'header.php';
