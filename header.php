@@ -15,6 +15,13 @@
                 </ul>
             </nav>
         </div>
+        <div class="container-about">
+            <nav>
+                <ul>
+                    <li><a href="#about"><div class="button1">ABOUT</div></a></li>
+                </ul>
+            </nav>
+        </div>
         <div class="container-order">
             <nav>
                 <ul>
@@ -30,7 +37,7 @@
             </nav>
         </div>
     </div>
-    <div class="shoppingcart">
-        <img class="shoppingcart1" src="afbeeldingen/shoppingcart.png">
+    <div class="shoppingcartbox">
+        <img class="shoppingcart" src="afbeeldingen/shoppingcart.png">
     </div>
 </header>

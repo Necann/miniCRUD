@@ -69,6 +69,10 @@ header .container-homepage {
     padding-right: 5%;
   }
 
+  header .container-about {
+    padding-right: 5%;
+  }
+
   header .container-order {
     padding-right: 5%;
   }
@@ -77,7 +81,7 @@ header .container-homepage {
     padding-right: 5%;
   }
 
-header .shoppingcart1 {
+header .shoppingcart {
   width: 25%;
   height: 25%;
   margin-left: 50%;
@@ -90,61 +94,84 @@ main {
 
 main .box {
     width: 100%;
-    height: 69vh;
-    background-image: url("../afbeeldingen/sushibackground.png");
+    height: 100vh;
+    background-image: url("../afbeeldingen/sushiheader.png");
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
 }
 
 main .box1 {
     width: 100%;
-    height: 400vh;
-    background-image: url("../afbeeldingen/woodbackground.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    border-top: 1px solid black;
+    height: 250vh;
+    background-color: white;
 }
 
 main .box2 {
-    width: 100%;
-    height: 100vh;
-    background-image: url("../afbeeldingen/woodbackground.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../afbeeldingen/cuttingboardbackground.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 main .box3 {
     width: 100%;
     height: 100vh;
-    background-image: url("../afbeeldingen/woodbackground.png");
-    background-repeat: no-repeat;
+    background-color: white;
+}
+
+main .box4 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../afbeeldingen/cuttingboardbackground.png");
     background-attachment: fixed;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .headline {
     width: 80%;
     height: 10%;
-    padding-top: 10%;
-    padding-left: 45%;
+    padding-top: 7%;
+    padding-left: 21%;
+}
+
+main .sushilogo2 {
+  width: 300px;
+  height: 120px;
+  margin-top: 10%;
+}
+
+main .menubar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
 }
 
 h1 {
     font-size: 50px;
     color: white;
-    -webkit-text-stroke: 2px black;
+}
+
+h2 {
+  font-size: 35px;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  color: #201f1e;
 }
 
 footer {
     bottom: 0;
     width: 100%;
     height: 7vh;
-    background-color: #201f1e;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 1px solid white;
 }
