@@ -36,7 +36,7 @@
             <div class="headline">
               <img class="sushilogo2" src="afbeeldingen/sushilogo2.png" alt="Sushi Logo">
                 <h1>Welkom bij 'T Plekje!</h1>
-                <h2>Bestel nu gemakkelijk online!</h2>
+                <h2>Bestel nu gemakkelijk online!!</h2>
             </div>
         </div>
     </main>
