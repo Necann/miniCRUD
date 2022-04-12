@@ -32,12 +32,12 @@ header .sushilogo {
 header .container-homepage {
     display: flex;
     padding-right: 1%;
-    margin-left: 30%;
+    padding-left: 5%;
   }
   
   header .button {
     display: flex;
-    margin-right: 25%;
+    margin-right: 50%;
   }
   
   header .button div {
@@ -92,7 +92,7 @@ main {
     height: 100%;
 }
 
-main .box {
+main .div-start {
     width: 100%;
     height: 100vh;
     background-image: url("../afbeeldingen/sushiheader.png");
@@ -100,13 +100,13 @@ main .box {
     background-size: cover;
 }
 
-main .box1 {
+main .div-menu {
     width: 100%;
-    height: 250vh;
+    height: auto;
     background-color: white;
 }
 
-main .box2 {
+main .div-about {
   width: 100%;
   height: 100vh;
   background-image: url("../afbeeldingen/cuttingboardbackground.png");
@@ -115,13 +115,13 @@ main .box2 {
   background-size: cover;
 }
 
-main .box3 {
+main .div-order {
     width: 100%;
     height: 100vh;
     background-color: white;
 }
 
-main .box4 {
+main .div-contact {
     width: 100%;
     height: 100vh;
     background-image: url("../afbeeldingen/cuttingboardbackground.png");
@@ -143,13 +143,85 @@ main .sushilogo2 {
   margin-top: 10%;
 }
 
-main .menubar {
+main .categories {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
   margin-left: 10%;
   margin-right: 10%;
+  margin-top: 5%;
+}
+
+main .categories a {
+  font-family: 'Lato', sans-serif;
+  font-size: 21px;
+  color: #201f1e;
+  text-decoration: none;
+}
+
+main .category {
+  margin-bottom: 0%;
+}
+
+main .category1_0 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
   margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+main .category1_0 p {
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  color: #201f1e;
+  text-decoration: none;
+}
+
+main .menuboxes {
+  width: 100%;
+  height: 55vh;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+
+main .menubox1 {
+  width: 320px;
+  height: 475px;
+  background-color: white;
+  border: #201f1e;
+  border-style: solid;
+  border-radius: 3px;
+}
+
+main .menubox1_2 {
+  width: 320px;
+  height: 420px;
+  background-color: white;
+  border: #201f1e;
+  border-style: solid;
+  border-radius: 3px;
+}
+
+main .menubox2 {
+  width: 320px;
+  height: 475px;
+}
+
+main .dish_info p {
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  color: #201f1e;
+  padding-left: 3%;
+  padding-top: 3%;
+}
+
+main .dish {
+  display: block;
+  width: 100%;
+  height: 320px;
 }
 
 h1 {
@@ -163,7 +235,7 @@ h2 {
 }
 
 h3 {
-  font-size: 21px;
+  font-size: 30px;
   color: #201f1e;
 }
 
