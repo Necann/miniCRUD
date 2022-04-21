@@ -9,6 +9,7 @@
 body {
     width: 100%;
     min-height: 100vh;
+    background-color: #201f1e;
 }
 
 header {
@@ -73,10 +74,6 @@ header .container-homepage {
     padding-right: 5%;
   }
 
-  header .container-order {
-    padding-right: 5%;
-  }
-
   header .container-contact {
     padding-right: 5%;
   }
@@ -115,19 +112,119 @@ main .div-about {
   background-size: cover;
 }
 
-main .div-order {
-    width: 100%;
-    height: 100vh;
-    background-color: white;
+main .restaurant_logo {
+  width: 375px;
+  height: 150px;
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 25%;
+}
+
+main .sushi_plate {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  margin-top: 15%;
+  margin-left: 70%;
+}
+
+main .restaurant_description {
+  width: 40%;
+  height: 25%;
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-top: 15%;
+  margin-left: 25%;
 }
 
 main .div-contact {
     width: 100%;
     height: 100vh;
-    background-image: url("../afbeeldingen/cuttingboardbackground.png");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #201f1e;
+}
+
+main .div-contact form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+main .div-contact form #label__fullname {
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+  color: white;
+  margin-left: 39.25%;
+  margin-bottom: 10px;
+}
+
+main .div-contact form #input__fullname {
+  width: 60%;
+  padding: 15px;
+  background-color: white;
+  border-style: none;
+  color: black;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+main .div-contact form #label__email {
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+  color: white;
+  margin-left: 39.25%;
+  margin-bottom: 15px;
+}
+
+main .div-contact form #input__email {
+  width: 60%;
+  padding: 15px;
+  background-color: white;
+  border-style: none;
+  color: black;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+main .div-contact form #label__discription {
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+  color: white;
+  margin-left: 39.25%;
+  margin-bottom: 15px;
+}
+
+main .div-contact form #input__discription {
+  width: 60%;
+  padding: 15px;
+  background-color: white;
+  border-style: none;
+  color: black;
+  margin-bottom: 15px;
+  resize: none;
+  border-radius: 5px;
+}
+
+main .div-contact form #click__submit {
+  width: 5%;
+  background-color: white;
+  border-style: none;
+  color: black;
+  padding: 15px;
+  margin-right: 56%;
+  border-radius: 20px;
+}
+
+label {
+  cursor: default;
+}
+
+input[type="text" i] {
+  padding: 1px 2px;
 }
 
 main .headline {
@@ -137,7 +234,7 @@ main .headline {
     padding-left: 21%;
 }
 
-main .sushilogo2 {
+main .sushilogo {
   width: 300px;
   height: 120px;
   margin-top: 10%;
@@ -194,6 +291,7 @@ main .menubox1 {
   border: #201f1e;
   border-style: solid;
   border-radius: 3px;
+  border-width: 2px;
 }
 
 main .menubox1_2 {
@@ -203,6 +301,7 @@ main .menubox1_2 {
   border: #201f1e;
   border-style: solid;
   border-radius: 3px;
+  border-width: 2px;
 }
 
 main .menubox2 {
@@ -225,8 +324,8 @@ main .dish {
 }
 
 h1 {
-    font-size: 50px;
-    color: white;
+  font-size: 50px;
+  color: white;
 }
 
 h2 {
@@ -237,6 +336,13 @@ h2 {
 h3 {
   font-size: 30px;
   color: #201f1e;
+}
+
+h4 {
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
 }
 
 footer {

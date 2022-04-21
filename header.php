@@ -1,5 +1,5 @@
 <header>
-    <img class="sushilogo" src="afbeeldingen/sushilogo2.png" alt="Sushi Logo">
+    <img class="sushilogo" src="afbeeldingen/sushilogo.png" alt="Sushi Logo">
     <div class="container-homepage" id="homepage">
         <nav>
             <ul>
@@ -19,13 +19,6 @@
             <nav>
                 <ul>
                     <li><a href="#about"><div class="button1">ABOUT</div></a></li>
-                </ul>
-            </nav>
-        </div>
-        <div class="container-order">
-            <nav>
-                <ul>
-                    <li><a href="#order"><div class="button1">ORDER</div></a></li>
                 </ul>
             </nav>
         </div>

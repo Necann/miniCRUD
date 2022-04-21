@@ -34,7 +34,7 @@
     <main>
         <div class="div-start">
             <div class="headline">
-              <img class="sushilogo2" src="afbeeldingen/sushilogo2.png" alt="Sushi Logo">
+              <img class="sushilogo" src="afbeeldingen/sushilogo.png" alt="Sushi Logo">
                 <h1>Welkom bij 'T Plekje!</h1>
                 <h2>Bestel nu gemakkelijk online!</h2>
             </div>
@@ -71,7 +71,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -79,7 +79,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -87,7 +87,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -95,7 +95,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -115,7 +115,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -123,7 +123,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -131,7 +131,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -139,7 +139,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -159,7 +159,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -167,7 +167,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -175,7 +175,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -183,42 +183,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-            </div>
-
-            <div class="menuboxes">
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -229,7 +194,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -237,7 +202,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -245,7 +210,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -253,7 +218,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -264,7 +229,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -272,7 +237,42 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuboxes">
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -296,7 +296,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -304,7 +304,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -312,7 +312,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -320,42 +320,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-            </div>
-
-            <div class="menuboxes">
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -366,7 +331,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -374,7 +339,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -382,7 +347,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -390,7 +355,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -401,7 +366,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -409,7 +374,42 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuboxes">
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -433,7 +433,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -441,7 +441,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -449,7 +449,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -457,42 +457,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-            </div>
-
-            <div class="menuboxes">
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -503,7 +468,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -511,7 +476,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -519,7 +484,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -527,7 +492,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -538,7 +503,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -546,7 +511,42 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuboxes">
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -570,7 +570,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -578,7 +578,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -586,7 +586,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -594,42 +594,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-            </div>
-
-            <div class="menuboxes">
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>New York Spicy Ebi</p>
-                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
-                  <p>€ 9,95<p>
-                </div>
-              </div>
-              <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -640,7 +605,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -648,7 +613,42 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuboxes">
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
+                <div class="dish_info">
+                  <p>New York Spicy Ebi</p>
+                  <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
+                  <p>€ 9,95<p>
+                </div>
+              </div>
+              <div class="menubox1">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -672,7 +672,7 @@
 
             <div class="menuboxes">
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -680,7 +680,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -688,7 +688,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -696,7 +696,7 @@
                 </div>
               </div>
               <div class="menubox1">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>New York Spicy Ebi</p>
                   <p>8 stuks | Tempura ebi, avocado, komkommer, Spaanse peper, red hot chili saus</p>
@@ -716,7 +716,7 @@
 
             <div class="menuboxes">
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -724,7 +724,7 @@
                 </div>
               </div>
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -732,7 +732,7 @@
                 </div>
               </div>
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -740,7 +740,7 @@
                 </div>
               </div>
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -751,7 +751,7 @@
 
             <div class="menuboxes">
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -759,7 +759,7 @@
                 </div>
               </div>
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -767,7 +767,7 @@
                 </div>
               </div>
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
@@ -775,35 +775,12 @@
                 </div>
               </div>
               <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
+                <img class="dish" src="afbeeldingen/placeholder.png">
                 <div class="dish_info">
                   <p>Coca Cola</p>
                   <p>330ml</p>
                   <p>€ 2,00<p>
                 </div>
-              </div>
-            </div>
-
-            <div class="menuboxes">
-              <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>Coca Cola</p>
-                  <p>330ml</p>
-                  <p>€ 2,00<p>
-                </div>
-              </div>
-              <div class="menubox1_2">
-                <img class="dish" src="afbeeldingen/newyorkspicyebi.png">
-                <div class="dish_info">
-                  <p>Coca Cola</p>
-                  <p>330ml</p>
-                  <p>€ 2,00<p>
-                </div>
-              </div>
-              <div class="menubox2">
-              </div>
-              <div class="menubox2">
               </div>
             </div>
           </div>
@@ -813,37 +790,45 @@
 
     <main>
         <div class="div-about">
-          <div class="container-about" id="about">
+          <div class="container-about">
             <nav>
               <ul>
                 <li><h1 href="#about"><div class="button1"></div></h1></li>
               </ul>
             </nav>
           </div>
-        </div>
-    </main>
+          <h4 id="about">About Us</h4>
 
-    <main>
-        <div class="div-order">
-          <div class="container-order" id="order">
-            <nav>
-              <ul>
-                <li><h1 href="#order"><div class="button1"></div></h1></li>
-              </ul>
-            </nav>
+          <div class="about_us">
+            <img class="restaurant_logo" src="afbeeldingen/sushilogo.png">
+            <p class="restaurant_description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum ducimus aspernatur fuga voluptatum voluptate cumque facere quo officiis omnis, provident et, laborum soluta aperiam hic sequi ullam repudiandae est, vel consequuntur saepe recusandae inventore cupiditate assumenda voluptatem. Autem aperiam fugit beatae dolores neque iste quam, voluptate in aspernatur velit. Sequi blanditiis laboriosam officiis illo ratione nulla, quod harum. Natus quisquam aut ipsam nam assumenda tempore molestias dolore illum voluptates, quaerat hic veritatis minus a vitae necessitatibus accusantium! Dignissimos deserunt esse rem iusto doloremque officia pariatur explicabo repudiandae tempora eaque ad at asperiores quas exercitationem quis, numquam ab quisquam beatae ducimus!</p>
+            <img class="sushi_plate" src="afbeeldingen/sushi_plate_photo.png">
           </div>
         </div>
     </main>
 
     <main>
         <div class="div-contact">
-          <div class="container-contact" id="contact">
+          <div class="container-contact">
             <nav>
               <ul>
                 <li><h1 href="#contact"><div class="button1"></div></h1></li>
               </ul>
             </nav>
           </div>
+          <h4 id="contact">Contact Us</h4>
+
+          <form method="post" id="form">
+            <label id="label__fullname" for="fullname">Full Name</label>
+            <input id="input__fullname" type="text" name="fullname" maxlength="" placeholder="Your Name" required="">
+
+            <label id="label__email" for="">Email</label>
+            <input id="input__email" type="text" name="email" maxlength="" placeholder="example@gmail.com" required="" data-nlok-ref-guid="1cbf07a5-3461-45ae-8515-c2fbf3468704"><div id="norton-idsafe-field-styling-divId" style="height:32.72727272727273px;max-width:32.72727272727273px;vertical-align:top; position:absolute; top:3164.1363636363635px;left:1466.863453079179px;cursor:pointer;resize: both;z-index:2147483646;"><img id="norton-idsafe-field-logo-imgId" src="chrome-extension://admmjipmmciaobhojoghlmleefbicajg/content/images/ic-field-logo.svg" style="height:32.72727272727273px; max-width:32.72727272727273px;"></div>
+
+            <label id="label__discription" for="discription">Send A Message</label>
+            <textarea id="input__discription" name="discription" rows="10" placeholder="Write something..." required=""></textarea>
+            <input id="click__submit" type="Submit" value="Submit" data-nlok-ref-guid="05f4c7eb-ddc4-4fdd-82e8-4a5d16c85204">
+          </form>
         </div>
     </main>
 
