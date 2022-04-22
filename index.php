@@ -25,7 +25,7 @@
     ?>
 
     <?php
-      $sql = "SELECT * FROM album";
+      $sql = "SELECT * FROM menu";
       $stmt = $connect->prepare($sql);
       $stmt->execute();
       $result = $stmt->fetchAll();
@@ -35,8 +35,8 @@
         <div class="div-start">
             <div class="headline">
               <img class="sushilogo" src="afbeeldingen/sushilogo.png" alt="Sushi Logo">
-                <h1>Welkom bij 'T Plekje!</h1>
-                <h2>Bestel nu gemakkelijk online!</h2>
+                <h1>Welkom bij 'T Plekje</h1>
+                <h2>Bestel nu gemakkelijk online</h2>
             </div>
         </div>
     </main>
@@ -53,7 +53,7 @@
           <div id="menu" class="menu"><div class="categories">
             <a href="#nyrolls">New York Rolls</a>
             <a href="#crrolls">Crispy Rolls</a>
-            <a href="#urrolls">Urumaki Rolls</a>
+            <a href="#urrolls">Uramaki Rolls</a>
             <a href="#maki">Maki/Futo maki</a>
             <a href="#nigiri">Nigiri/Temari</a>
             <a href="#temaki">Temaki Hand-Roll</a>
@@ -840,7 +840,7 @@
       {
         //Je uit te voeren code
         //Je verschillende onderdelen benader je dan met
-        echo $value["artiest"];
+        echo $value["titel"];
       }
     ?>
 

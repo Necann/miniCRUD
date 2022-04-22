@@ -112,32 +112,6 @@ main .div-about {
   background-size: cover;
 }
 
-main .restaurant_logo {
-  width: 375px;
-  height: 150px;
-  position: absolute;
-  margin-top: 5%;
-  margin-left: 25%;
-}
-
-main .sushi_plate {
-  width: 500px;
-  height: 500px;
-  position: absolute;
-  margin-top: 15%;
-  margin-left: 70%;
-}
-
-main .restaurant_description {
-  width: 40%;
-  height: 25%;
-  position: absolute;
-  font-size: 25px;
-  color: white;
-  margin-top: 15%;
-  margin-left: 25%;
-}
-
 main .div-contact {
     width: 100%;
     height: 100vh;
@@ -321,6 +295,32 @@ main .dish {
   display: block;
   width: 100%;
   height: 320px;
+}
+
+main .restaurant_logo {
+  width: 375px;
+  height: 150px;
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 25%;
+}
+
+main .sushi_plate {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  margin-top: 15%;
+  margin-left: 70%;
+}
+
+main .restaurant_description {
+  width: 40%;
+  height: 25%;
+  position: absolute;
+  font-size: 25px;
+  color: white;
+  margin-top: 15%;
+  margin-left: 25%;
 }
 
 h1 {

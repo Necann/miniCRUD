@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'webshop';
+$db = 'restaurant_plekje';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
